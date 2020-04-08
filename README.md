@@ -1,8 +1,9 @@
 # python3.8.2-boilerplate
 
-Steps to setup this code:
+### Steps to setup this boilerplate:
     1. git clone https://github.com/satheesh1997/python3.8.2-boilerplate.git
     2. cd python3.8.2-boilerplate
     3. ./setup.sh
-    4. git remote set-url origin (url repos origin url)
+    4. git remote set-url origin (remote origin url of your repo)
     5. git push -u origin master
+
