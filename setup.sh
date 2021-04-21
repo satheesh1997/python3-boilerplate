@@ -1,6 +1,7 @@
 #!/bin/sh
 
-echo "Setting up the python 3.8.2 boilerplate"
+echo "Setting up the python3 boilerplate"
+echo "Using python version 3.8.2"
 
 if [ "$(python --version)" != "Python 3.8.2" ]
 then
